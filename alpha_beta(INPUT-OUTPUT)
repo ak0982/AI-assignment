@@ -1,0 +1,319 @@
+
+AI VS AI
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+OUTPUT---->
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Computer_1 HAS WON THE TOSS:
+computer_1:1
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+Computer_1 won the game
+
+
+
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+21
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+OUTPUT---->
+
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Computer_2 HAS WON THE TOSS:
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+COMPUTER_2:2
+computer_1:2
+Computer_1 won the game
+
+
+INPUT---->
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+53
+
+
+
+
+
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+OUTPUT---->TIME LIMIT EXCEED
+
+
+
+
+
+
+
+
+AI VS HUMAN
+
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+2
+
+OUTPUT---->
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Computer_1 HAS WON THE TOSS:
+computer_1:1
+Player_1:2
+computer_1:2
+Player_1:2
+computer_1:2
+Player_1:3
+computer_1:1
+Computer_1 won the game
+
+
+
+
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+21
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+2
+
+OUTPUT---->
+
+-------------------------GAME RULE-------------------------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE AT MOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+Player_1 HAS WON THE TOSS:
+Player_1:2
+computer_1:2
+Player_1:3
+computer_1:1
+Player_1:1
+computer_1:3
+Player_1:3
+computer_1:1
+Player_1:2
+computer_1:2
+Computer_1 won the game
+
+
+
+INPUT---->
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+53
+
+
+
+
+
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+2
+
+
+
+OUTPUT---->TIME LIMIT EXCEED
+
+
+
+
+
+
+HUMAN VS HUMAN
+
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+14
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+1
+
+OUTPUT---->
+
+---------------GAME RULE--------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE ATMOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+ PLAYER_2 WON THE TOSS
+
+ PLAYER_2:2
+
+ PLAYER_1:3
+
+ PLAYER_2:2
+
+ PLAYER_1:1
+
+ PLAYER_2:2
+
+ PLAYER_1:3
+
+ PLAYER_1 HAS WON THE GAME
+ 
+ 
+
+
+
+INPUT---->
+
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+21
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+OUTPUT---->
+---------------GAME RULE--------------
+A PLAYER CAN CHOOSE ATLEAST 1 STICK OR CAN CHOOSE ATMOST 3 STICKS
+LETS BEGIN THE GAME.WE ARE DOING THE TOSS
+ PLAYER_2 WON THE TOSS
+
+ PLAYER_2:1
+
+ PLAYER_1:2
+
+ PLAYER_2:2
+
+ PLAYER_1:1
+
+ PLAYER_2:3
+
+ PLAYER_1:2
+
+ PLAYER_2:1
+
+ PLAYER_1:2
+
+ PLAYER_2:3
+
+ PLAYER_1:1
+
+ PLAYER_2:2
+
+ PLAYER_2 HAS WON THE GAME
+
+
+
+INPUT---->
+####################################
+-----------STICK GAME-------------
+----------------------------------
+ HOW MUCH STICK WITH YOU WANT TO PLAY:
+53
+
+
+
+
+
+
+1. PLAY WITH FRIEND
+2. PLAY WITH COMPUTER
+3. PLAY COMPUTER VS COMPUTER
+4. EXIT
+5. ENTER YOUR CHOICE:
+3
+
+OUTPUT---->TIME LIMIT EXCEED
+
+
+
+
+
+
+
+
+
+
