@@ -23,6 +23,10 @@ Goal state: All rows are filled such that no queens are at attacking positions
 
 
 
+
+
+
+
 2.8 queen by a*
 
 1.State space: Here sate space is a 8x8 matrix where the position of a queen is represented by 1
